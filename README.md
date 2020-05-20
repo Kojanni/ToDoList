@@ -1,2 +1,2 @@
-# ToDoList
-RESTful API. MVC. Spring.
+Spring Framework
+Создание вебприложения ToDoList на Spring boot 
